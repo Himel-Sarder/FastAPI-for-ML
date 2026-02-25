@@ -5,7 +5,7 @@ from fastapi import FastAPI
 app = FastAPI()
 
 def load_data():
-    with open('bookings.json', 'r') as d:
+    with open('users.json', 'r') as d:
         data = json.load(d)
         return data
 
@@ -27,4 +27,5 @@ def add_numbers(a: int, b: int):
 @app.get('/view')
 def view():
     data = load_data()
+
     return data
