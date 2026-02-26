@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Himel Sarder",
+    "email": "himel101@example.com",
+    "department": "CSE",
+    "score": 95
+  },
+  {
+    "id": 102,
+    "name": "Arafat Islam",
+    "email": "arafat102@example.com",
+    "department": "EEE",
+    "score": 88
+  },
+  {
+    "id": 103,
+    "name": "Nusrat Jahan",
+    "email": "nusrat103@example.com",
+    "department": "BBA",
+    "score": 92
+  },
+  {
+    "id": 104,
+    "name": "Sakib Hasan",
+    "email": "sakib104@example.com",
+    "department": "CSE",
+    "score": 85
+  },
+  {
+    "id": 105,
+    "name": "Tanvir Ahmed",
+    "email": "tanvir105@example.com",
+    "department": "ME",
+    "score": 90
+  },
+  {
+    "id": 106,
+    "name": "Mim Akter",
+    "email": "mim106@example.com",
+    "department": "CSE",
+    "score": 87
+  },
+  {
+    "id": 107,
+    "name": "Rahat Khan",
+    "email": "rahat107@example.com",
+    "department": "EEE",
+    "score": 89
+  },
+  {
+    "id": 108,
+    "name": "Faria Rahman",
+    "email": "faria108@example.com",
+    "department": "BBA",
+    "score": 91
+  },
+  {
+    "id": 109,
+    "name": "Jahid Hasan",
+    "email": "jahid109@example.com",
+    "department": "CSE",
+    "score": 86
+  },
+  {
+    "id": 110,
+    "name": "Sharmin Sultana",
+    "email": "sharmin110@example.com",
+    "department": "ME",
+    "score": 93
+  }
+]
